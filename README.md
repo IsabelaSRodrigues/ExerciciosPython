@@ -16,7 +16,7 @@ Este repositório tem o objetivo de expor exercícios  solicitados em sala de au
   - 5 Exercício Questão 4
   - 6 Exercício Questão 5
 
-
+# Lista 1
 
 ### Exercício Questão 2
 2. João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o
@@ -61,8 +61,24 @@ a quantidades de latas de tinta a serem compradas e o preço total.
 
 Código contruído com variáveis para armazenar dados como área, litros de tinta, valor da lata e após receber o valor da área em metros quadrados informa através de comandos print a quantidade de latas e o valor.
 
-
+# Lista 2 
 
 ### Exercício Questão 2
+2. Faça um Programa que peça um número inteiro e determine se ele é par ou ímpar.
+
+Código feito com a lógica do if/else para selecionar o número par. ![image](https://user-images.githubusercontent.com/66086398/194734409-639397e3-43db-4fee-887d-53b0a535769a.png)
+ Primeiramente recebendo o valor pelo usuário e logo após entrando na estrutura de condição para analisar o resultado. Caso o resto da divisão não seja 0, o número é considrado impar.
+
 ### Exercício Questão 4
+
+4. Faça um Programa que peça a idade e a altura de 5 pessoas, armazene cada informação no seu
+respectivo índice. Imprima a idade e a altura na ordem inversa a ordem lida.
+
+Nesse código foi necessário utilizar o laço de repetição for para que o programa possa reproduzir 5 vezes a perguntas para o usuário. Uma vez atingida essa quantidade o for encerra e o código passa para o próximo passo que é inverter o resultado dos valores informados, exibindo de modo reverso.
+
 ### Exercício Questão 5
+
+5. Faça um Programa que leia uma estrutura A com 10 números inteiros, calcule e mostre a soma
+dos quadrados dos elementos desta estrutura.
+
+No código podemos acompanhar que o processo ocorre dentro do for de 10 posições e assim que atinge seu valor máximo o usuário obtém a resposta da soma dos quartetos.
